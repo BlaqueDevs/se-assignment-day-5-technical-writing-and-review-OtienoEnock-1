@@ -80,7 +80,7 @@ A well written README file should have the following distinct parts in the intro
   Key features of the product.
   Target audience of the product.
  
-**12. How can you succinctly convey the purpose and key features of a product?**
+## 12. How can you succinctly convey the purpose and key features of a product?
 
   Provide clear summary of the key features in bullet points.
   Use concise statements.
